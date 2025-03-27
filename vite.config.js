@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/reactQuadB/', // Replace with your repo name
+  base: '/reactProject/', // Make sure this matches your GitHub repo name exactly
 });
